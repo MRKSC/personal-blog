@@ -1,0 +1,35 @@
+.InputStyle {
+  min-height: 180px;
+
+}
+
+.faSkull-style {
+  font-size: 75px;
+}
+.animation {
+  opacity: 1;
+  animation-name: fadeInOpacity;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  animation-duration: 3s;
+}
+  @keyframes fadeInOpacity {
+    100% {
+      opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+      }
+    100% {
+      opacity: 1;
+    }
+}
+animationBackgroundColorSuccess {
+  background-color : #00ad5f;
+}
+animationBackgroundColorfail {
+  background-color : #ad2d00;
+}
+animationBackgroundColorNeutral {
+  background-color : #f6f348;
+}
