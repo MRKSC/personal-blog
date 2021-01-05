@@ -7,7 +7,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "@fortawesome/react-fontawesome": "^0.1.8",
     "@fullpage/react-fullpage": "^0.1.17",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "components": "^0.1.0",
     "core-js": "^2.6.10",
     "node-sass": "^4.13.0",
